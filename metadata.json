@@ -1,0 +1,8 @@
+{
+  "name": "Copy of OmniChat - Unified Customer Communication",
+  "description": "A powerful unified inbox for WhatsApp, Instagram, and Facebook Messenger with agent assignments and AI-powered smart replies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
